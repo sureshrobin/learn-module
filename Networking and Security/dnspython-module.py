@@ -5,6 +5,6 @@ def is_it_palindrome(s):
     else:
         print(f'{s} is not a palindrome')
 
-is_it_palindrome('madam')
+is_it_palindrome('racecar')
 
 
